@@ -1,10 +1,10 @@
 # Make a customer database
 
-## Momentum Boot Camp Project 1
+## Momentum Boot Camp Project 5
 
 Skills:
 
-- Displaying data from a javascript file
+- displaying data from a javascript file
 
 ## Below are Project Directions
 
